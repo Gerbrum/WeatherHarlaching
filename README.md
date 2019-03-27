@@ -1,0 +1,2 @@
+# WeatherHarlaching
+Discord Weather Bot
